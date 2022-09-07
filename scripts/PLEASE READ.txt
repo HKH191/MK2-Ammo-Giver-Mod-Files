@@ -1,0 +1,5 @@
+To Save Weapon Loadout press - (Subtract Key)
+To Load Weapon Loadout press / (Devide Key)
+to Drop a Weapon (remove it from Inventory) Press * (Multiply Key)
+There can be changed via MK2AmmoGiver/MK2AmmoGiver.ini
+
